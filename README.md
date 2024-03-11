@@ -19,6 +19,9 @@ YT Video to Notes is a tool that generates detailed notes from YouTube videos.
 5. **Environment Variables:**
    Add `GOOGLE_API_KEY` (use the exact name) environment varibale to the `.env` file .
 
+6. **Run the Project:**
+    Type `streamlit run app.py` in CLI
+
 ## Usage
 
 1. **Provide YouTube Video Link:**
