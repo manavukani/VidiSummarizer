@@ -3,9 +3,9 @@ from extract_transcript import extract_transcript
 from generate_summary import generate_summary
 
 def main():
-    st.title("YouTube URL to Detailed Notes Generator")
+    st.title("VidiSummarizer: YouTube URL to Detailed Notes Generator")
     youtube_link = st.text_input("Enter YouTube Video Link:")
-    user_prompt = st.text_area("Provide additional guidelines:", height=100)
+    user_prompt = st.text_area("Provide additional guidelines (optional):", height=100)
 
     # display image
     if youtube_link:

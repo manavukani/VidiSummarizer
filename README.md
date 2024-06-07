@@ -1,6 +1,6 @@
-# YT Video to Notes
+# VidiSummarizer
 
-YT Video to Notes is a tool that generates detailed notes from YouTube videos.
+VidiSummarizer is a tool that generates detailed notes from YouTube videos.
 
 ## Setup
 
