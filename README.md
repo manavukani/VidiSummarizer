@@ -30,6 +30,15 @@ VidiSummarizer is a tool that generates detailed notes from YouTube videos.
 2. **Generate Detailed Notes:**
    Click on the "Get Detailed Notes" button to generate notes from the video.
 
+## Screenshots
+
+1.
+![image](https://github.com/manavukani/VidiSummarizer/assets/84531789/7d9dab13-8b5b-4b5a-80fb-2db19174fe7d)
+
+2.
+![image](https://github.com/manavukani/VidiSummarizer/assets/84531789/2fa66914-fcf6-4eed-ad22-9b4e554e161f)
+
+
 ## Requirements
 
 - youtube_transcript_api
